@@ -64,4 +64,3 @@ var validators = (function() {
     validCPF: validCPF
   };
 })();
-console.log( validators.validCPF( '407.308.418-63' ) );
