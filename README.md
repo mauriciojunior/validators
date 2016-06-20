@@ -1,2 +1,3 @@
 # Validators
-Pequeno projeto para estudos.
+
+Pequena lib com alguns validadores.
